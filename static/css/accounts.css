@@ -1,0 +1,16 @@
+body {
+  background-image: url(../img/s.jpg);
+}
+
+.logo {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.logo a {
+  color: rgba(0, 0, 0, 0.918);
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
