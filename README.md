@@ -7,6 +7,3 @@ Aplication Forum with Django
 - Forget Password
 
 
-#Username : ellyzahraa
-
-#Password : kokom777
